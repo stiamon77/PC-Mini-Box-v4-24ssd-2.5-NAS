@@ -21,13 +21,13 @@ You can order laser cutting according to these drawings in your city from any co
 
 **Computer hardware and case parts**
 
-1. Any mini-ITX motherboard will do. Check the height of the cooling system. And at least one PCI-Express x16 for the RAID controller. I used the board ASRock J4005B-ITX**
-2. [**RAID controller, I used LSI MegaRAID 9260-8i + LSI bbu08, this is a good and inexpensive controller**](https://s.click.aliexpress.com/e/_mN7rkys) **
-3. [**Expansion card for 16 drives (HBA Cards), Which will allow you to connect 20 disks to RAID.**](https://s.click.aliexpress.com/e/_oCTe7vc)**
+1. Any mini-ITX motherboard will do. Check the height of the cooling system. And at least one PCI-Express x16 for the RAID controller. I used the board ASRock J4005B-ITX
+2. [**RAID controller, I used LSI MegaRAID 9260-8i + LSI bbu08, this is a good and inexpensive controller**](https://s.click.aliexpress.com/e/_mN7rkys)
+3. [**Expansion card for 16 drives (HBA Cards), Which will allow you to connect 20 disks to RAID.**](https://s.click.aliexpress.com/e/_oCTe7vc)
 4. [**Cables for connecting drives to the RAID controller (Mini SAS 4i SFF8087 36P To 4 SATA) 25cm or 0.5m, 5 items**](https://s.click.aliexpress.com/e/_m0wkBo8)
 5. [**Connection cable MegaRAID 9260-8 in HBA Cards (Mini Sas Sff 8087) 0.3m, 1 items**](https://s.click.aliexpress.com/e/_mPbJIv6)
 6. [**16x Extender Riser Adapter Card for powering HBA Cards**](https://s.click.aliexpress.com/e/_omNainU)
-7. TFX power supply 250-300 watts or more, depends on your motherboard, if it is powerful and you plan to load this computer, then calculate the power of the power supply based on this. I disassembled my power supply and got rid of the metal casing**
+7. TFX power supply 250-300 watts or more, depends on your motherboard, if it is powerful and you plan to load this computer, then calculate the power of the power supply based on this. I disassembled my power supply and got rid of the metal casing
 8. [**Two good 120mm fans**](https://s.click.aliexpress.com/e/_olfPU1C)
 9. [**Two buttons with 12mm indication for turning on and restarting the PC. The first button is connected to the power indication, the second to the HDD operation indication on the motherboard**](https://s.click.aliexpress.com/e/_opKHAS2)
 10. [**Anti Vibration Silicone Screws PC Fan, for attaching fans to the front cover**](https://s.click.aliexpress.com/e/_mqwq2zE)
@@ -39,7 +39,9 @@ You can order laser cutting according to these drawings in your city from any co
 16. In order not to clog the case space with a bunch of wires, it is better to make a power cable for SATA drives yourself. It's easy to do, all you need are** [**wires 18AWG (yellow, black 2x, red, I had 10 meters to spare)**](https://s.click.aliexpress.com/e/_mqA43wY) and [**connectors (With 180 Cap).**](https://s.click.aliexpress.com/e/_mPAv6ti)
 17. You will also need glue for the plastic from which you will make the body. Choose special, good glue.
 
+
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-11-20PM-000_CustomizedView4456576218.jpg)
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-13-11PM-000_CustomizedView16062987769.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/5f5ad582-9b15-4780-8eb4-0891857cbd05.JPEG)
-![Image alt](
+![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-15-38PM-000_CustomizedView11494094846.jpg)
+![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-14-34PM-000_CustomizedView7183140828.jpg)
+![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_03-18-59PM-000_CustomizedView2781047564.jpg)
