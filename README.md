@@ -36,7 +36,7 @@ You can order laser cutting according to these drawings in your city from any co
 13. [**Hot Melt Thread Knurled (M2, OD 3,2mm, 10 pieces. And M3, OD 5mm, 10 pieces.) They are fused into the plastic to secure the bolts.**](https://s.click.aliexpress.com/e/_EycOUV1)
 14. [**Hex Standoff for Motherboard Board. For attaching the motherboard to the bottom of the case. (M3, Dimensions may vary depending on your motherboard, usually 6mm, 10 pieces**](https://s.click.aliexpress.com/e/_oCelR1y)
 15. [**Decorative mesh for the front and back of the case.**](https://s.click.aliexpress.com/e/_onzry1C) [**And you may also need dust protection.**](https://s.click.aliexpress.com/e/_okZUZ0w)
-16. In order not to clog the case space with a bunch of wires, it is better to make a power cable for SATA drives yourself. It's easy to do, all you need are** [**wires 18AWG (yellow, black 2x, red, I had 10 meters to spare)**](https://s.click.aliexpress.com/e/_mqA43wY) and [**connectors (With 180 Cap).**](https://s.click.aliexpress.com/e/_mPAv6ti)
+16. In order not to clog the case space with a bunch of wires, it is better to make a power cable for SATA drives yourself. It's easy to do, all you need are [**wires 18AWG (yellow, black 2x, red, I had 10 meters to spare)**](https://s.click.aliexpress.com/e/_mqA43wY) and [**connectors (With 180 Cap).**](https://s.click.aliexpress.com/e/_mPAv6ti)
 17. You will also need glue for the plastic from which you will make the body. Choose special, good glue.
 
 
