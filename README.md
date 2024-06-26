@@ -6,7 +6,7 @@ This is a very compact computer case that I made for my NAS on SSD 2.5 drives wi
 The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 and ultramarine RAL 5002).
 The model was created in Fusion 360.
 
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-09-45PM-000_CustomizedView27963997169.jpg)
+![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_03-18-59PM-000_CustomizedView2781047564.jpg)
 
 **3D model Fusion 360** 
 
@@ -44,4 +44,4 @@ You can order laser cutting according to these drawings in your city from any co
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-13-11PM-000_CustomizedView16062987769.jpg)
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-15-38PM-000_CustomizedView11494094846.jpg)
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-14-34PM-000_CustomizedView7183140828.jpg)
-![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_03-18-59PM-000_CustomizedView2781047564.jpg)
+![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-09-45PM-000_CustomizedView27963997169.jpg)
