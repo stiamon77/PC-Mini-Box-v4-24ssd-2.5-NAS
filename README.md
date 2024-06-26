@@ -21,9 +21,9 @@ You can order laser cutting according to these drawings in your city from any co
 
 **Computer hardware and case parts**
 
-**1.** **Any mini-ITX motherboard will do. Check the height of the cooling system. And at least one PCI-Express x16 for the RAID controller. I used the board ASRock J4005B-ITX**
-**2.** [**RAID controller, I used LSI MegaRAID 9260-8i + LSI bbu08, this is a good and inexpensive controller**](https://s.click.aliexpress.com/e/_mN7rkys)
-**3.** [**Expansion card for 16 drives (HBA Cards), Which will allow you to connect 20 disks to RAID.**](https://s.click.aliexpress.com/e/_oCTe7vc)
+**1. Any mini-ITX motherboard will do. Check the height of the cooling system. And at least one PCI-Express x16 for the RAID controller. I used the board ASRock J4005B-ITX**
+**2. [**RAID controller, I used LSI MegaRAID 9260-8i + LSI bbu08, this is a good and inexpensive controller**](https://s.click.aliexpress.com/e/_mN7rkys) **
+**3. [**Expansion card for 16 drives (HBA Cards), Which will allow you to connect 20 disks to RAID.**](https://s.click.aliexpress.com/e/_oCTe7vc)**
 **4.** [**Cables for connecting drives to the RAID controller (Mini SAS 4i SFF8087 36P To 4 SATA) 25cm or 0.5m, 5 items**](https://s.click.aliexpress.com/e/_m0wkBo8)
 **5.** [**Connection cable MegaRAID 9260-8 in HBA Cards (Mini Sas Sff 8087) 0.3m, 1 items**](https://s.click.aliexpress.com/e/_mPbJIv6)
 **6.** [**16x Extender Riser Adapter Card for powering HBA Cards**](https://s.click.aliexpress.com/e/_omNainU)
