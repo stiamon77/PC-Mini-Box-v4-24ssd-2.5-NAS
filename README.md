@@ -12,6 +12,8 @@ This is a very compact computer case that I made for my NAS on SSD 2.5 drives wi
 The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 and ultramarine RAL 5002).
 The model was created in Fusion 360.
 
+**Version V4**
+
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_03-18-59PM-000_CustomizedView2781047564.jpg)
 
 **3D model Fusion 360** 
