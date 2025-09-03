@@ -2,6 +2,8 @@
 
 Buy me a coffee https://paypal.me/StanislavTimofeev       )
 
+**Industrial and interface design: [Liberiam (Mary Timofeeva)](https://www.linkedin.com/in/marija-timofeeva-184484382/)**
+
 This is a very compact computer case that I made for my NAS on SSD 2.5 drives with a RAID controller.
 The model was created for laser cutting from sheet material (I used acrylic of different colors, white 9016, black RAL 9005 and ultramarine RAL 5002).
 The model was created in Fusion 360.
