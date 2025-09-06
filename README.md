@@ -4,7 +4,7 @@ Buy me a coffee https://paypal.me/StanislavTimofeev       )
 
 **Industrial and interface design: [Liberiam (Mary Timofeeva)](https://www.linkedin.com/in/marija-timofeeva-184484382/)**
 
-**New version with touch screen V5, coming soon )**
+[**New version with touch screen V5**](https://github.com/stiamon77/AQSTQA-PC-BOX-S-Mini-ITX)
 
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/pcv5.jpg)
 
