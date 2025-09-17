@@ -1,6 +1,10 @@
 # Mini PC Box v4
 
-Buy me a coffee https://paypal.me/StanislavTimofeev       )
+
+
+## [Lend your support to our projects](https://taplink.cc/aqstqa)
+
+
 
 **Industrial and interface design: [Liberiam (Mary Timofeeva)](https://www.linkedin.com/in/marija-timofeeva-184484382/)**
 
@@ -55,3 +59,9 @@ You can order laser cutting according to these drawings in your city from any co
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_02-09-45PM-000_CustomizedView27963997169.jpg)
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_07-53-47PM-000_CustomizedView7013359680.jpg)
 ![Image alt](https://github.com/stiamon77/PC-Mini-Box-v4-24ssd-2.5-NAS/blob/main/Img/PC_Box_16v4_2024-Jun-26_07-56-18PM-000_CustomizedView6989542613.jpg)
+
+
+
+## [Lend your support to our projects](https://taplink.cc/aqstqa)
+
+
